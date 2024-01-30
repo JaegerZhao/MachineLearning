@@ -1,0 +1,10 @@
+3[[:space:]]贝叶斯垃圾邮件识别/data/trec06c-utf8.zip filter=lfs diff=lfs merge=lfs -text
+4[[:space:]]基于K-近邻的车牌号识别/data/data.zip filter=lfs diff=lfs merge=lfs -text
+6[[:space:]]基于集成学习的[[:space:]]Amazon[[:space:]]用户评论质量预测/data/groundTruth.csv filter=lfs diff=lfs merge=lfs -text
+6[[:space:]]基于集成学习的[[:space:]]Amazon[[:space:]]用户评论质量预测/data/test.csv filter=lfs diff=lfs merge=lfs -text
+6[[:space:]]基于集成学习的[[:space:]]Amazon[[:space:]]用户评论质量预测/data/train.csv filter=lfs diff=lfs merge=lfs -text
+7[[:space:]]某闯关类手游用户流失预测（毕业设计）/data/dev.csv filter=lfs diff=lfs merge=lfs -text
+7[[:space:]]某闯关类手游用户流失预测（毕业设计）/data/level_meta.csv filter=lfs diff=lfs merge=lfs -text
+7[[:space:]]某闯关类手游用户流失预测（毕业设计）/data/level_seq.csv filter=lfs diff=lfs merge=lfs -text
+7[[:space:]]某闯关类手游用户流失预测（毕业设计）/data/test.csv filter=lfs diff=lfs merge=lfs -text
+7[[:space:]]某闯关类手游用户流失预测（毕业设计）/data/train.csv filter=lfs diff=lfs merge=lfs -text
